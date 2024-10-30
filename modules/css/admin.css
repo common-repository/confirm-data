@@ -1,0 +1,19 @@
+bar: {
+    groupWidth: 20
+}
+.w_100{
+	width:100% !important;
+}
+ul.storelist li{
+	list-style:none  !important;
+}
+ul.storelist li input[type="checkbox"]{
+	margin-right:10px  !important;
+	height:15px !important;
+	width:15px !important;
+}
+.tw-bs input[type="checkbox"]{
+	height:15px !important;
+	width:15px !important;
+	
+}
